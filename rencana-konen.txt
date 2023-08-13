@@ -2,6 +2,7 @@
   - ES6
   -lear framework java script
     - View
+    - MEAN
 3. Learn Struktur Data
 4. PHP Framework
     - Laravel
