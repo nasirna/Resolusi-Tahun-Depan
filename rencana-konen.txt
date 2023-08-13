@@ -1,6 +1,8 @@
 1. bikin javascript
   - ES6
   -lear framework java script
-3. Learn Struktur Data
-4. PHP Framework
-5. vlog
+    - angular
+    - react
+3. PHP Framework
+    - laravel
+4. vlog
