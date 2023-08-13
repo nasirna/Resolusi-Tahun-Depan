@@ -1,3 +1,5 @@
 Resolusi tahun depan :
 1. learn engine 2
 2. spring boot, prosgre, react
+3. membuat software pos
+4, learn android studio
